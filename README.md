@@ -8,18 +8,33 @@
 Hello 👋 my name is **Ahmad Akmal Fauzan**, you can call me **Ojan**.  
 I'm a student at **SMKN 24 Jakarta** with a strong interest in **Web Development**.  
 I also enjoy working with open source tools, scalable web apps.  
+</br>
+
+## 📡 CONNECT
+<p align="left">
+  <a href="mailto:ojanfauzan81107@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/Gabbymine">
+    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+</p>
+</br>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js)](https://skillicons.dev)
+
+</br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:003B00&height=120&section=footer&text=SYSTEM%20STABLE&fontColor=00FF41&fontSize=24" />
+</p>
 
 
-## 🧑‍💻 About Me
-```txt
-Name        : Ahmad Akmal Fauzan
-Nickname    : Ojan
-Role        : IT Student | Web Developer
-School      : SMKN 24 Jakarta
-Interest    : Web Development
+
+
+
 
 
 
