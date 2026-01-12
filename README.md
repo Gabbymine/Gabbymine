@@ -28,8 +28,30 @@ I also enjoy working with open source tools, scalable web apps.
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js)](https://skillicons.dev)
 
 </br>
+
+
+<hr>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Learn+quietly.;Build+consistently.;Let+the+results+speak.;Code.+Learn.+Build.+Repeat." 
+    alt="Typing SVG" 
+  />
+</p>
+<p align="center">
+  <i>Built with passion, patience, and curiosity.</i><br>
+  <b>Ahmad Akmal Fauzan</b> 
+</p>
+
+<p align="center">
+  <sub>© 2025 · Web Development Journey</sub>
+</p>
+
+
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:003B00&height=120&section=footer&text=SYSTEM%20STABLE&fontColor=00FF41&fontSize=24" />
 </p>
+
+
+
 
 
 
