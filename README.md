@@ -25,7 +25,7 @@ I also enjoy working with open source tools, scalable web apps.
 </br>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js,ts,python)](https://skillicons.dev)
 
 </br>
 
