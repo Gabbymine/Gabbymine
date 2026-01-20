@@ -25,7 +25,12 @@ I also enjoy working with open source tools, scalable web apps.
 </br>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,laravel,react,php,js,ts,python,tailwind,bootstrap,mysql)](https://skillicons.dev)
+
+</br>
+
+## 🕹️ Top Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbymine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </br>
 
