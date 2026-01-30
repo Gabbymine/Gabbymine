@@ -21,6 +21,9 @@ I also enjoy working with open source tools, scalable web apps.
   <a href="https://linkedin.com/in/username">
     <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
+  <a href="https://instagram.com/in/pluviozann">
+    <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=black" />
+  </a>
 </p>
 </br>
 
