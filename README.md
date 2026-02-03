@@ -18,7 +18,7 @@ I also enjoy working with open source tools, scalable web apps.
   <a href="https://github.com/Gabbymine">
     <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/username">
+  <a href="https://linkedin.com/in/Ahmad Akmal Fauzan">
     <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://instagram.com/in/pluviozann">
