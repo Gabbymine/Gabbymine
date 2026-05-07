@@ -33,7 +33,7 @@ I also enjoy working with open source tools, scalable web apps.
 </br>
 
 ## 🕹️ Top Language
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbymine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabbymine&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 </br>
 
@@ -57,7 +57,9 @@ I also enjoy working with open source tools, scalable web apps.
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:003B00&height=120&section=footer&text=SYSTEM%20STABLE&fontColor=00FF41&fontSize=24" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gabbymine/Gabbymine/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 
 
