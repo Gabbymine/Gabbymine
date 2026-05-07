@@ -32,11 +32,11 @@ I also enjoy working with open source tools, scalable web apps.
 
 </br>
 
-## 🕹️ Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gabbymine&theme=dark&hide_border=false&layout=compact&langs_count=8)
+## 🏆 GitHub Trophy
 
-</br>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabbymine&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
 
 <hr>
 <p align="center">
